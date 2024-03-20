@@ -10,6 +10,11 @@ The app is meant to run as a webapp with a dashboard usable in a browser and on 
 ## Team
 S. Zaidi and C. Lindqvist
 
+## About the webapp
+To run the app we use a free account for the Mapbox map API to draw maps. See details in the [Mapbox documentation](https://docs.mapbox.com/help/getting-started/access-tokens/) for how to set it up.
+
+We plan to provide a guide for how to set up your own instance as future work. It is also a future work to support other map APIs.
+
 ## Pitch
 How can we make the places we live in fulfill basic needs in a sustainable way? How can governments and society understand the impact a new policy will have on an area and avoid mistakes when creating new policies? How can inhabitants make their own voice heard?
 
@@ -59,6 +64,8 @@ Here are some use case examples for various stakeholders (users, policymakers, s
 - Provide a guide for how to localize the application and ingest relevant data (e.g. policymaker contact details).
 - Do a deep analysis and prevent any misuse of this type of application.
 - Do an analysis of accessibility and adapt the design and application accordingly.
+- Integrate other map APIs with the application.
+- Integrate AI tools with the application to develop the policy analysis features.
 
 ## Other resources
 - [Full Figma design board with all assets and screens](https://www.figma.com/file/cdVboZ27CTvocSOmNRcm0i/cloudnativehacks?type=design&node-id=0%3A1&mode=design&t=SWLZ1In60ZotbQ9Y-1)

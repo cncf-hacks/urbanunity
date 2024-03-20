@@ -13,7 +13,7 @@ S. Zaidi and C. Lindqvist
 ## About the webapp
 To run the app we use a free account for the Mapbox map API to draw maps. See details in the [Mapbox documentation](https://docs.mapbox.com/help/getting-started/access-tokens/) for how to set it up.
 
-We plan to provide a guide for how to set up your own instance as future work. It is also a future work to support other map APIs.
+We plan to provide a guide for how to set up your own instance of this proof-of-concept platform as future work. It is also a future work to support other map APIs.
 
 ## Pitch
 How can we make the places we live in fulfill basic needs in a sustainable way? How can governments and society understand the impact a new policy will have on an area and avoid mistakes when creating new policies? How can inhabitants make their own voice heard?

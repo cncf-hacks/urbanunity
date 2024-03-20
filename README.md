@@ -19,42 +19,6 @@ We also propose the possibility to expand the application to be used by NGOs to 
 
 It is important that the application is Open Source to allow extensions and further development by new communities. It is meant to be localized depending on the geographical area it will be deployed in. It is also meant to be deployable by anyone so that any citizen or service provider can set up an instance and start ingesting public policy documents to get a better understanding of their contents.
 
-## SDGs targeted by this project
-![image](img/sdg/E-WEB-Goal-03.png) Policymakers and service providers can see the impact of a new policy and cross-correlate it with statistics, such as air pollution in an area or other factors that impact health. Users can request health services from local governments or NGOs.
-
-![image](img/sdg/E-WEB-Goal-05.png) 
-Gender-specific issues or risks can be raised as concerns to local policymakers or NGOs.
-
-![image](img/sdg/E-WEB-Goal-06.png)
-In the NGO use case locals will be able to mark spots where clean water is needed.
-
-![image](img/sdg/E-WEB-Goal-07.png)
-Service providers for clean energy can model existing data, statistics and policies to deploy new services in a more efficient way.
-
-![image](img/sdg/E-WEB-Goal-08.png)
-Service providers can use the tool to discover new needs for services and create workplaces.
-
-![image](img/sdg/E-WEB-Goal-09.png)
-Service providers can collaborate with local government to propose new services needed by the citizens.
-
-![image](img/sdg/E-WEB-Goal-10.png)
-Everyone can participate in suggesting improvements to the local policymakers or NGOs to ensure their voice is heard.
-
-![image](img/sdg/E-WEB-Goal-13.png)
-Users can interact with policymakers and form local groups for the environment.
-
-![image](img/sdg/E-WEB-Goal-14.png)
-Users can alert policymakers or NGOs to natural disasters or risks happening in local lakes, rivers or seashores.
-
-![image](img/sdg/E-WEB-Goal-15.png)
-Users can alert policymakers to natural disasters or risks happening in a land area.
-
-![image](img/sdg/E-WEB-Goal-16.png)
-Users will be able to influence the decisionmaking directly and ensure that policymakers or NGOs are aware of area-specific challenges.
-
-![image](img/sdg/E-WEB-Goal-17.png) 
-The platform allows everyone to participate. Service providers can form collaborations with citizens and local governments to develop new areas.
-
 ## Use case examples
 Here are some use case examples for various stakeholders (users, policymakers, service providers, NGOs).
 #### Model suggestions cross-correlated with datasets
@@ -98,6 +62,42 @@ Here are some use case examples for various stakeholders (users, policymakers, s
 
 ## Other resources
 - [Full Figma design board with all assets and screens](https://www.figma.com/file/cdVboZ27CTvocSOmNRcm0i/cloudnativehacks?type=design&node-id=0%3A1&mode=design&t=SWLZ1In60ZotbQ9Y-1)
+
+## SDGs targeted by this project
+![image](img/sdg/E-WEB-Goal-03.png) Policymakers and service providers can see the impact of a new policy and cross-correlate it with statistics, such as air pollution in an area or other factors that impact health. Users can request health services from local governments or NGOs.
+
+![image](img/sdg/E-WEB-Goal-05.png) 
+Gender-specific issues or risks can be raised as concerns to local policymakers or NGOs.
+
+![image](img/sdg/E-WEB-Goal-06.png)
+In the NGO use case locals will be able to mark spots where clean water is needed.
+
+![image](img/sdg/E-WEB-Goal-07.png)
+Service providers for clean energy can model existing data, statistics and policies to deploy new services in a more efficient way.
+
+![image](img/sdg/E-WEB-Goal-08.png)
+Service providers can use the tool to discover new needs for services and create workplaces.
+
+![image](img/sdg/E-WEB-Goal-09.png)
+Service providers can collaborate with local government to propose new services needed by the citizens.
+
+![image](img/sdg/E-WEB-Goal-10.png)
+Everyone can participate in suggesting improvements to the local policymakers or NGOs to ensure their voice is heard.
+
+![image](img/sdg/E-WEB-Goal-13.png)
+Users can interact with policymakers and form local groups for the environment.
+
+![image](img/sdg/E-WEB-Goal-14.png)
+Users can alert policymakers or NGOs to natural disasters or risks happening in local lakes, rivers or seashores.
+
+![image](img/sdg/E-WEB-Goal-15.png)
+Users can alert policymakers to natural disasters or risks happening in a land area.
+
+![image](img/sdg/E-WEB-Goal-16.png)
+Users will be able to influence the decisionmaking directly and ensure that policymakers or NGOs are aware of area-specific challenges.
+
+![image](img/sdg/E-WEB-Goal-17.png) 
+The platform allows everyone to participate. Service providers can form collaborations with citizens and local governments to develop new areas.
 
 
 
